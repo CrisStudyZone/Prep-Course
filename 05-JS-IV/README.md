@@ -172,7 +172,7 @@ Este es el caso cuando ejecutamos código en el contexto global (afuera de cualq
 // En el browser esto es verdad:
 > console.log(this === window);
 < true
-
+git 
 > this.a = 37;
 
 > console.log(window.a);
